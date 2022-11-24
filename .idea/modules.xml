@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearningCoreSpring.iml" filepath="$PROJECT_DIR$/LearningCoreSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-demo-onee/Spring-demo-onee.iml" filepath="$PROJECT_DIR$/Spring-demo-onee/Spring-demo-onee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-02-one-to-one-bi/hb-02-one-to-one-bi.iml" filepath="$PROJECT_DIR$/hb-02-one-to-one-bi/hb-02-one-to-one-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" filepath="$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-05-many-to-many/hb-05-many-to-many.iml" filepath="$PROJECT_DIR$/hb-05-many-to-many/hb-05-many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" filepath="$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-hb-03-one-to-many/hibernate-hb-03-one-to-many.iml" filepath="$PROJECT_DIR$/hibernate-hb-03-one-to-many/hibernate-hb-03-one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial/hibernate-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycoolapp.iml" filepath="$PROJECT_DIR$/mycoolapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycoolwebapp/mycoolwebapp.iml" filepath="$PROJECT_DIR$/mycoolwebapp/mycoolwebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-annotations/spring-demo-annotations.iml" filepath="$PROJECT_DIR$/spring-demo-annotations/spring-demo-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop/spring-demo-aop.iml" filepath="$PROJECT_DIR$/spring-demo-aop/spring-demo-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-pointcut-declarations/spring-demo-aop-pointcut-declarations.iml" filepath="$PROJECT_DIR$/spring-demo-aop-pointcut-declarations/spring-demo-aop-pointcut-declarations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-pointcut-declarations-combo/spring-demo-aop-pointcut-declarations-combo.iml" filepath="$PROJECT_DIR$/spring-demo-aop-pointcut-declarations-combo/spring-demo-aop-pointcut-declarations-combo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-pointcut-order-aspects/spring-demo-aop-pointcut-order-aspects.iml" filepath="$PROJECT_DIR$/spring-demo-aop-pointcut-order-aspects/spring-demo-aop-pointcut-order-aspects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-read-joinpoint/spring-demo-aop-read-joinpoint.iml" filepath="$PROJECT_DIR$/spring-demo-aop-read-joinpoint/spring-demo-aop-read-joinpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-z-after-returning/spring-demo-aop-z-after-returning.iml" filepath="$PROJECT_DIR$/spring-demo-aop-z-after-returning/spring-demo-aop-z-after-returning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-z-after-throwing/spring-demo-aop-z-after-throwing.iml" filepath="$PROJECT_DIR$/spring-demo-aop-z-after-throwing/spring-demo-aop-z-after-throwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-zz-after-finally/spring-demo-aop-zz-after-finally.iml" filepath="$PROJECT_DIR$/spring-demo-aop-zz-after-finally/spring-demo-aop-zz-after-finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-zz-around/spring-demo-aop-zz-around.iml" filepath="$PROJECT_DIR$/spring-demo-aop-zz-around/spring-demo-aop-zz-around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-zz-around-with-logger/spring-demo-aop-zz-around-with-logger.iml" filepath="$PROJECT_DIR$/spring-demo-aop-zz-around-with-logger/spring-demo-aop-zz-around-with-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-aop-zzz-around-handle-exception/spring-demo-aop-zzz-around-handle-exception.iml" filepath="$PROJECT_DIR$/spring-demo-aop-zzz-around-handle-exception/spring-demo-aop-zzz-around-handle-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-demo/spring-mvc-demo.iml" filepath="$PROJECT_DIR$/spring-mvc-demo/spring-mvc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-customer-tracker/web-customer-tracker.iml" filepath="$PROJECT_DIR$/web-customer-tracker/web-customer-tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-customer-tracker-aop/web-customer-tracker-aop.iml" filepath="$PROJECT_DIR$/web-customer-tracker-aop/web-customer-tracker-aop.iml" />
+    </modules>
+  </component>
+</project>

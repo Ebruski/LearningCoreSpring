@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mycoolwebapp" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-crm-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mvc-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-rest-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-01-base-app" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-02-basic-security" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-03-custom-login-form" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-05-logout" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-07-restrict-access-based-on-role" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo-08-jdbc-plaintext" />
+    <file type="web" url="file://$PROJECT_DIR$/testing-spring-boot" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-02-basic-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-03-custom-login-form/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-05-logout/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-07-restrict-access-based-on-role/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo-08-jdbc-plaintext/pom.xml" />
+        <option value="$PROJECT_DIR$/jackson-databind-json-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-crm-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/cruddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-cruddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-cruddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-rest-cruddemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

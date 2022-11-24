@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jackson-databind-json-demo" />
+        <module name="spring-data-jpa-cruddemo" />
+        <module name="spring-security-demo-02-basic-security" />
+        <module name="spring-security-demo-08-jdbc-plaintext" />
+        <module name="testing-spring-boot" />
+        <module name="spring-security-demo-03-custom-login-form" />
+        <module name="spring-security-demo-07-restrict-access-based-on-role" />
+        <module name="spring-security-demo-05-logout" />
+        <module name="spring-data-rest-cruddemo" />
+        <module name="cruddemo" />
+        <module name="spring-boot-actuator" />
+        <module name="spring-crm-rest" />
+        <module name="jpa-cruddemo" />
+        <module name="spring-rest-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="demo" target="1.8" />
+      <module name="mycoolapp" target="11" />
+      <module name="mycoolwebapp" target="11" />
+      <module name="spring-mvc-demo" target="1.8" />
+      <module name="spring-security-demo-01-base-app" target="1.8" />
+      <module name="spring-security-demo-02-base-app" target="1.8" />
+      <module name="testing-spring-boot" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cruddemo" options="-parameters" />
+      <module name="jpa-cruddemo" options="-parameters" />
+      <module name="spring-boot-actuator" options="-parameters" />
+      <module name="spring-data-jpa-cruddemo" options="-parameters" />
+      <module name="spring-data-rest-cruddemo" options="-parameters" />
+      <module name="testing-spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>
